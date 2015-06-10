@@ -1,0 +1,17 @@
+READ ME
+
+Hello to who ever is peer assessing, hope you are having an awesome day! :)
+
+Here is a quick summary of what I have done:
+- ListView with adapter for showing picture and time stamp.
+- big blue button to take a selfie (calls camera and returns image)
+- images are saved to storage/sd/Pictures/DailySelfie
+- images from this folder are loaded on the apps loading.
+- A notification will be set each 2 minutes from opening the app
+- clicking on this notification will bring you back to the app.
+- 
+
+- I did not finish the enlarging of the image. It gives you a toast saying to implement..
+
+
+ 

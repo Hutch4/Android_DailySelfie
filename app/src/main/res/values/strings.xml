@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="selfie_object_string">A Selfie</string>
+    <string name="button_take_picture">Take A Selfie</string>
+    <string name="selfie_list_position">Position Of A Selfie In List</string>
+    <string name="description_zoom_touch_close">Zoom</string>
+    <string name="title_activity_selfie_notification">SelfieNotification</string>
+    <string name="selfie_notification">Time to take another selfie</string>
+</resources>
